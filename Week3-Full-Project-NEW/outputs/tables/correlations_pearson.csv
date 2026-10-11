@@ -1,0 +1,7 @@
+,distance_km,shipment_weight_kg,parcel_count,actual_delivery_hours,transport_cost_inr,sla_margin_hours
+distance_km,1.0,0.0103,-0.0537,0.8548,0.9408,0.4495
+shipment_weight_kg,0.0103,1.0,-0.0425,0.0436,0.1045,0.0444
+parcel_count,-0.0537,-0.0425,1.0,-0.0386,0.052,-0.0283
+actual_delivery_hours,0.8548,0.0436,-0.0386,1.0,0.8389,0.737
+transport_cost_inr,0.9408,0.1045,0.052,0.8389,1.0,0.5148
+sla_margin_hours,0.4495,0.0444,-0.0283,0.737,0.5148,1.0

@@ -1,0 +1,4 @@
+traffic_level,shipments,on_time_rate,mean_sla_margin_hours,median_sla_margin_hours,on_time_pct
+Low,277,0.989,-2.689,-2.69,98.917
+Medium,443,0.973,-2.128,-2.16,97.291
+High,240,0.8,-0.956,-1.015,80.0
